@@ -1,6 +1,0 @@
-C:\Projetos\BULL\Bull_Crypt\Bull_Crypt\bin\Debug\Bull_Crypt.exe.config
-C:\Projetos\BULL\Bull_Crypt\Bull_Crypt\bin\Debug\Bull_Crypt.exe
-C:\Projetos\BULL\Bull_Crypt\Bull_Crypt\bin\Debug\Bull_Crypt.pdb
-C:\Projetos\BULL\Bull_Crypt\Bull_Crypt\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Projetos\BULL\Bull_Crypt\Bull_Crypt\obj\x86\Debug\Bull_Crypt.exe
-C:\Projetos\BULL\Bull_Crypt\Bull_Crypt\obj\x86\Debug\Bull_Crypt.pdb
